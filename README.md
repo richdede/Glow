@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/richdede/glow)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/richdede/Glow)
 [![Twitter Follow](https://img.shields.io/twitter/follow/iamt_toby?style=social)](https://twitter.com/intent/follow?screen_name=iamt_toby)
   <br />
   <br />
